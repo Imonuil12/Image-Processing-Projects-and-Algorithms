@@ -104,7 +104,7 @@ Special thanks to:
 
 Have questions or suggestions? Reach out via:
 - **GitHub**: [Imonuil12](https://github.com/Imonuil12)
-- **Email**: [imasuleymanov@gmail.com]
+- **Email**: imasuleymanov@gmail.com
 
 ---
 
