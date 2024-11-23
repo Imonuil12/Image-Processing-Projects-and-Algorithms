@@ -63,7 +63,7 @@ This repository showcases a collection of **Image Processing Projects and Algori
 
 ## 💡 Contribution
 
-We welcome contributions! Here's how you can contribute:
+I welcome contributions! Here's how you can contribute:
 1. Fork the repository.
 2. Create a new branch for your changes:
    ```bash
